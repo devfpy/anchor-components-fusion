@@ -1,6 +1,6 @@
 # anchor-components-fusion
 
-> anchor components lib base fusiondesgin
+> anchor components library fusionDesign
 
 [![NPM](https://img.shields.io/npm/v/anchor-components-fusion.svg)](https://www.npmjs.com/package/anchor-components-fusion) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
