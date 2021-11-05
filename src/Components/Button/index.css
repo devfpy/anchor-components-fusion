@@ -1,0 +1,182 @@
+.baseButton {
+    cursor: pointer;
+    font-size: 14px !important;
+}
+
+.deleteButton {
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.deleteButton:hover .btnIcon {
+    color: #7cc9fd;
+}
+
+.deleteButton:hover .btnTitle {
+    color: #8d8d8d;
+}
+
+.deleteButton .btnIcon {
+    color: #43b0ff;
+    font-size: 14px !important;
+}
+
+.deleteButton .btnTitle {
+    /* color: #585858; */
+    margin-left: 4px;
+    font-size: inherit;
+}
+
+.editButton {
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.editButton:hover .btnIcon {
+    color: #ffe181;
+}
+
+.editButton:hover .btnTitle {
+    /* color: #8d8d8d; */
+}
+
+.editButton .btnIcon {
+    color: #ffd350;
+}
+
+.editButton .btnTitle {
+    /* color: #585858; */
+    margin-left: 4px;
+    font-size: inherit;
+}
+.buttonFatherBtn:hover .btnTitle {
+    color: #fff;
+}
+
+.buttonFatherBtn .btnTitle {
+    /* color: #fff; */
+    margin-left: 4px;
+    font-size: inherit;
+}
+
+.buttonFatherBtn .next-btn.next-btn-normal {
+    border-color: #ffffff;
+}
+
+/* 默认色
+未触发 */
+.buttonFatherBtn .defaultBtn {
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/* 绿色
+未触发 */
+.buttonFatherBtn .greenbtn {
+    cursor: pointer;
+    font-size: 14px;
+    background-color: #46bc15 !important;
+}
+
+/* 鼠标移入 */
+.buttonFatherBtn .greenbtn:hover {
+    background-color: #41a716 !important;
+}
+
+/* 蓝色
+未触发 */
+.buttonFatherBtn .blueBtn {
+    cursor: pointer;
+    font-size: 14px;
+    background-color: #3578f6 !important;
+}
+
+/* 鼠标移入 */
+.buttonFatherBtn .blueBtn:hover {
+    background-color: #3578f6 !important;
+}
+
+/* 橙色
+未触发 */
+.buttonFatherBtn .orangeBtn {
+    cursor: pointer;
+    font-size: 14px;
+    background-color: #ff9300 !important;
+}
+
+/* 鼠标移入 */
+.buttonFatherBtn .orangeBtn:hover {
+    background-color: #eb7e10 !important;
+}
+
+/* 红色
+未触发 */
+.buttonFatherBtn .redBtn {
+    cursor: pointer;
+    font-size: 14px;
+    background-color: #ff3000 !important;
+}
+
+/* 鼠标移入 */
+.buttonFatherBtn .redBtn:hover {
+    background-color: #e72b00 !important;
+}
+
+/* 常规
+未触发 */
+.buttonFatherBtn .normalBtn {
+    cursor: pointer;
+    font-size: 14px;
+    background-color: #e3fff8 !important;
+}
+
+/* 鼠标移入 */
+.buttonFatherBtn .normalBtn:hover {
+    background-color: #c0ece2 !important;
+}
+
+/* 黑色 */
+.buttonFatherBtn .blackBtn {
+    cursor: pointer;
+    font-size: 14px;
+    /* background-color: #ffeb3b !important; */
+    background-color: rgba(22, 19, 19, 0.582) !important;
+}
+
+/* 已访问 */
+.buttonFatherBtn .blackBtn:visited {
+    /* background-color: #fccc12 !important; */
+    background-color: #5c5411 !important;
+}
+
+/* 鼠标移入 */
+.buttonFatherBtn .blackBtn:hover {
+    background-color: #0f0c00 !important;
+}
+
+/* 白色
+未触发 */
+.buttonFatherBtn .whiteBtn {
+    cursor: pointer;
+    font-size: 14px;
+    background-color: #ffffff !important;
+    /* border-color: $color-notice-4 !important; */
+}
+
+/* 文字
+.buttonFatherBtn:hover .whiteBtn .btnTitle {
+     color: $color-notice-4 !important;
+} */
+
+/* 文字 */
+.buttonFatherBtn .whiteBtn .btnTitle {
+    color: #e02e2e !important;
+    margin-left: 4px;
+    font-size: inherit;
+}
+
+/* 鼠标移入 */
+.buttonFatherBtn .whiteBtn:hover {
+    background-color: #fde3e3 !important;
+    border-color: #428bff !important;
+}

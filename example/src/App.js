@@ -1,10 +1,20 @@
-import React from 'react'
+/*
+ * @Author: devfpy
+ * @Date: 2021-11-05 14:46:54
+ * @LastEditTime: 2021-11-05 15:13:37
+ * @LastEditors: devfpy
+ * @Description:
+ */
+import React from 'react';
 
-import { ExampleComponent } from 'anchor-components-fusion'
-import 'anchor-components-fusion/dist/index.css'
+import { EditButtonText } from 'anchor-components-fusion';
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
-}
+    return (
+        <div>
+            <EditButtonText title="编辑" />
+        </div>
+    );
+};
 
-export default App
+export default App;
